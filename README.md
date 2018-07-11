@@ -1,1 +1,2 @@
-# JavaScript-IssueTracker
+# JavaScript-Issue-tracker
+Javascript Project
